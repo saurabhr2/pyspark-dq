@@ -348,3 +348,9 @@ html_string = export_results_to_html(results_df)
 # You can also quickly display results in the console:
 display_last_executed_check(spark, "my_database.dq_results")
 ```
+
+### For complete documentation refer  [wiki pages](https://github.com/saurabhr2/pyspark-dq/wiki)
+
+## Owner & Contributor
+Owner: [Saurabh Rai](saurabhr2@gmail.com)
+Contributors:
