@@ -352,5 +352,6 @@ display_last_executed_check(spark, "my_database.dq_results")
 ### For complete documentation refer  [wiki pages](https://github.com/saurabhr2/pyspark-dq/wiki)
 
 ## Owner & Contributor
-Owner: [Saurabh Rai](saurabhr2@gmail.com)
-Contributors:
+#Owner: [Saurabh Rai](saurabhr2@gmail.com)
+
+#Contributors:
